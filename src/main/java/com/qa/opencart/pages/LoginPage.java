@@ -46,5 +46,8 @@ public class LoginPage {
 		return new AccountsPage(driver);
 		
 	}
+	public void getName() {
+		System.out.println("Name");
+	}
 
 }
