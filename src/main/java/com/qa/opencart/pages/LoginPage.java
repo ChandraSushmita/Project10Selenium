@@ -47,7 +47,7 @@ public class LoginPage {
 		
 	}
 	public void getName() {
-		System.out.println("Name");
+		System.out.println("Current branch -- CARTA");
 	}
 
 }
